@@ -1,0 +1,24 @@
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.AssemblyReference.cache
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\obj\Debug\kutuphane.AnaEkran.resources
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\obj\Debug\kutuphane.KitapDuzenle.resources
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\obj\Debug\kutuphane.KitapEkle.resources
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\obj\Debug\kutuphane.Properties.Resources.resources
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.GenerateResource.cache
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\bin\Debug\kutuphane.exe.config
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\bin\Debug\kutuphane.exe
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\bin\Debug\kutuphane.pdb
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\obj\Debug\kutuphane.exe
+C:\Users\mhmdk\Desktop\kutuphane\kutuphane\obj\Debug\kutuphane.pdb
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\bin\Debug\kutuphane.exe.config
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\bin\Debug\kutuphane.exe
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\bin\Debug\kutuphane.pdb
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\obj\Debug\kutuphane.csproj.AssemblyReference.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\obj\Debug\kutuphane.AnaEkran.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\obj\Debug\kutuphane.KitapDuzenle.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\obj\Debug\kutuphane.KitapEkle.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\obj\Debug\kutuphane.Properties.Resources.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\obj\Debug\kutuphane.csproj.GenerateResource.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\obj\Debug\kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\obj\Debug\kutuphane.exe
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\Assignment-3\kutuphane\obj\Debug\kutuphane.pdb
